@@ -18,13 +18,4 @@ public class Museu extends InstituicaoCultural{
             System.out.println(e.exibirInformacoes());
         }
     }
-
-//    public void adicionarExposicoes(Exposicao exposicao){
-//        exposicaoList.add(exposicao);
-//
-//    }
-//
-//    public ArrayList<Exposicao> getExposicaoList() {
-//        return exposicaoList;
-//    }
 }
