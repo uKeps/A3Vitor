@@ -18,12 +18,14 @@ public class Exposicao implements Exibivel {
         obraDeArteList.add(obraDeArte);
     }
 
-    public ArrayList<ObraDeArte> getObraDeArteList() {
-        return obraDeArteList;
-    }
 
     @Override
     public String exibirInformacoes() {
         return "Exposição: " + titulo + " | Início: " + dataInicio;
+    }
+
+
+    public ArrayList<ObraDeArte> getObraDeArteList() {
+        return obraDeArteList;
     }
 }

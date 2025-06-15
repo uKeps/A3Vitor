@@ -13,7 +13,7 @@ public class Visitante {
         return nome;
     }
 
-    public void registrarVisita(){
-        System.out.println(nome + " registrou uma visita.");
-    }
+//    public void registrarVisita(){
+//        System.out.println(nome + " registrou uma visita.");
+//    }
 }

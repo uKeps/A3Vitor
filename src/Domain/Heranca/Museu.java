@@ -12,18 +12,19 @@ public class Museu extends InstituicaoCultural{
         super(nome, endereco);
     }
 
-    public void adicionarExposicoes(Exposicao exposicao){
-        exposicaoList.add(exposicao);
-
-    }
-
-    public ArrayList<Exposicao> getExposicaoList() {
-        return exposicaoList;
-    }
 
     public void listarExposicoes(){
         for (Exposicao e : exposicaoList){
             System.out.println(e.exibirInformacoes());
         }
     }
+
+//    public void adicionarExposicoes(Exposicao exposicao){
+//        exposicaoList.add(exposicao);
+//
+//    }
+//
+//    public ArrayList<Exposicao> getExposicaoList() {
+//        return exposicaoList;
+//    }
 }
