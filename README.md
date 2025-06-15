@@ -41,4 +41,4 @@ O projeto está organizado em pacotes e segue os princípios da Programação Or
 - Erik Piassini
 - João Santos
 
-![img.png](img.png)
+![img_1.png](img_1.png)
