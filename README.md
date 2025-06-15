@@ -29,6 +29,18 @@ O projeto está organizado em pacotes e segue os princípios da Programação Or
 - `Domain.Interfaces`: Contém a interface `Exibivel`.
 - `Domain.Gerenciamento`: Contém classes de controle do sistema (`Artista`, `ObraDeArte`, `Exposicao`, `Visitante`, `Agendamento`).
 
+## ✅ Requisitos Atendidos
+
+✔ Separação de código em múltiplos arquivos e pacotes  
+✔ Uso de **herança**, **interface**, **abstração**, **ArrayList**  
+✔ Inserção de dados feita somente pelo operador na `Main`  
+✔ Lógica da regra de negócio fora da classe `Main`  
+✔ Menu completo para todas as funcionalidades  
+✔ Diagrama de classes UML em PlantUML  
+✔ Projeto publicado no GitHub  
+✔ Mínimo de 8 classes (mais de 10 implementadas)  
+✔ Organização e boas práticas no código
+
 ## ▶️ Execução
 
 1. Clone o repositório:
